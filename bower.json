@@ -1,0 +1,22 @@
+{
+  "name": "gridster",
+  "description": "a drag-and-drop multi-column jQuery grid plugin",
+  "main": [
+    "dist/jquery.gridster.css",
+    "dist/jquery.gridster.js"
+  ],
+  "authors": [
+    "shilon5"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/shilon5/gridster.js",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "libs",
+    "test",
+    "tests"
+  ]
+}
